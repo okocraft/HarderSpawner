@@ -1,0 +1,8 @@
+/.idea/
+/target/
+spawners.iml
+.classpath
+.project
+/docs/
+.vscode
+.settings
